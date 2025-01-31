@@ -1,0 +1,12 @@
+#container{
+    #nav{
+        background-color: forestgreen;
+        padding: 6px;
+
+        div{
+            display: flex;
+            justify-content: end;
+
+        }
+    }
+}
